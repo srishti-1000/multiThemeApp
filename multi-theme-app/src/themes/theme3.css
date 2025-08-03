@@ -1,0 +1,3 @@
+.theme3 body {
+  @apply bg-yellow-100 text-pink-900 font-pacifico;
+}
